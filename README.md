@@ -1,51 +1,13 @@
-# Node.js Server for Angular Storefront - Crash Course
+🛠️ Focus on:
 
-This server provides the backend functionality for the Angular frontend, allowing users to perform CRUD (Create, Read, Update, Delete) operations on products. The server utilizes Express and interacts with a JSON file to manage product data.
+Angular Foundations: Gain a solid understanding of Angular architecture, components, directives, and services.
 
-## Table of Contents
+Core Angular Features: Standalone components, Modules, Routing, Pipes & Services.
 
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
+Node.js Backend with Express: Learn to set up a robust backend for handling RESTful APIs, authentication, and more using Node.js and Express.
 
-## Features
+Mock Database Integration: Understand the importance of data management by integrating a mock database into your application.
 
-- **Express Server:** The server is built with Express, providing a robust and scalable backend.
-- **CRUD Operations:** Supports Create, Read, Update, and Delete operations on product data.
-- **JSON Data Storage:** Products are stored and manipulated within a JSON file instead of a traditional database.
+Building a Storefront: Step-by-step guidance on developing a fully functional storefront application, including product management, user authentication, and shopping cart functionality.
 
-## Getting Started
-
-### Prerequisites
-
-Before you begin, ensure you have the following installed:
-
-- [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/)
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/thecodedeck/angular-cc-1-server.git
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-## Usage
-
-1. Run the server:
-   ```bash
-   npm start
-   ```
-2. The server will be running on http://localhost:3000/.
-
-3. The Angular frontend will interact with these API endpoints to perform CRUD operations on products.
-
-## License
-
-This project is licensed under the MIT License.
+Responsive Design and UI/UX: Explore best practices for creating a responsive user interface using Angular Material and other UI libraries.
