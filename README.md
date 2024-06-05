@@ -8,4 +8,3 @@ A simple backend using Node.js and Express to handle RESTful APIs and authentica
 - User authentication
 - Mock database integration
 
-Let's persevere and keep coding! 
